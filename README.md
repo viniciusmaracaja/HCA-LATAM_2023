@@ -7,7 +7,7 @@ The establishment of collaborative scientific endeavors like the [Human Cell Atl
 [Workshop website](https://events.humancellatlas.org/2023LA)
 
 ## Bioinformatics Team
-- [Adolfo Rojas], Advanced Center for Chronic Diseases (ACCDiS), University of Chile, Chile
+- **Adolfo Rojas**, Advanced Center for Chronic Diseases (ACCDiS), University of Chile, Chile
 - [Daniela Russo](https://www.linkedin.com/in/danieladrusso/), Broad Institute, US
 - [Orr Ashenberg](https://scholar.google.com/citations?user=vziWlEgAAAAJ&hl=en), Broad Institute, US
 - [Raúl Arias-Carrasco](https://scholar.google.com/citations?user=WRPcvtMAAAAJ&hl=en), Universidad Tecnológica Metropolitana, Chile
