@@ -43,7 +43,7 @@ _Gene expression changes in a dynamic way as cells transition from one state to 
 By using scRNA-seq data, computational tools such as Monocle3 can infer the single-cell trajectories that cells undergo when transitioning across the different functional states. Thus, the developmental history (ontogeny) of differentiated cell types can be traced. This notebook will cover the key concepts and methods related to inferring cell-state trajectory and pseudotime ordering, followed by hands-on activities that illustrate the use of Monocle3, a tool devised for this purpose._
 **Related Slides:** Soon...
 
-- **Notebook 06 - Deciphering cell-cell communication in single-cell transcriptomics data**:
+- [Notebook 06 - Deciphering cell-cell communication in single-cell transcriptomics data](https://drive.google.com/file/d/1jQ903KS07Mb4WBAvrrOUz91wGoEXolh9/view?usp=sharing):
 _Cell-cell communication plays a crucial role in coordinating cellular activities and maintaining the overall functionality of multicellular organisms. It allows cells to transmit signals, exchange information, and coordinate their behaviors, ultimately contributing to essential biological processes such as development, immune response, and tissue homeostasis. In this context, inferring cell-cell interactions from gene expression data becomes valuable for unraveling the multiple roles and coordination processes that cells perform within multicellular systems. 
 In this notebook, main concepts and a general computational workflow will be covered, then hands-on activities will be performed using LIANA, a flexible tool implementing multiple state-of-the-art methods to study cell-cell interactions._
 **Related Slides:** Soon....
