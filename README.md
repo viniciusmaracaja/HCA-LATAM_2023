@@ -7,20 +7,13 @@ The establishment of collaborative scientific endeavors like the [Human Cell Atl
 [Workshop website](https://events.humancellatlas.org/2023LA)
 
 ## Instructors
-- Dr. Guillermo Parada, University of Toronto (Canadá).
-- MSc. Juan Pablo Silva, Universidad de Chile (Chile).
-- Dr. Mónica Saldarriaga, Universidad Bernardo O’Higgins (Chile).
-- Dr. Paulo P. Amaral, INSPER (Brasil).
+- [Dr. Guillermo Parada](https://scholar.google.com/citations?hl=es&user=PTLeXysAAAAJ), University of Toronto (Canadá).
+- [MSc. Juan Pablo Silva](https://www.researchgate.net/profile/Juan-Silva-36), Universidad de Chile (Chile).
+- [Dr. Mónica Saldarriaga-Córdoba](https://scholar.google.com/citations?hl=es&user=nBBt_2UAAAAJ), Universidad Bernardo O’Higgins (Chile).
+- [Dr. Paulo P. Amaral](https://scholar.google.com/citations?hl=es&user=eKNlynIAAAAJ), INSPER (Brasil).
 - [Raúl Arias-Carrasco](https://scholar.google.com/citations?user=WRPcvtMAAAAJ&hl=en), Universidad Tecnológica Metropolitana - UTEM, Chile.
 - [Dr. Romain Guyot](https://scholar.google.com/citations?hl=es&user=1jAQU2wAAAAJ), IRD Montpellier (França).
 - [Dr. Vinicius Maracaja-Coutinho](https://scholar.google.com.br/citations?user=T_dpe84AAAAJ&hl), Advanced Center for Chronic Diseases (ACCDiS), Universidad de Chile, Chile.
-
-  
-- **Adolfo Rojas**, Advanced Center for Chronic Diseases (ACCDiS), University of Chile, Chile
-- [Daniela Russo](https://www.linkedin.com/in/danieladrusso/), Broad Institute, US
-- [Orr Ashenberg](https://scholar.google.com/citations?user=vziWlEgAAAAJ&hl=en), Broad Institute, US
-- [Raúl Arias-Carrasco](https://scholar.google.com/citations?user=WRPcvtMAAAAJ&hl=en), Universidad Tecnológica Metropolitana - UTEM, Chile
-- [Sergio Triana](https://scholar.google.com/citations?hl=en&user=WxyC26MAAAAJ), Broad Institute & MIT, US
 
 
 ## Hands-On Bioinformatics Training Material
