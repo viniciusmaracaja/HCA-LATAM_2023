@@ -1,3 +1,5 @@
+
+
 ## Workshop overview
 
 Single-cell sequencing technologies are powerful tools used to assess genomic, transcriptomic and proteomics information at the single-cell level. In recent years, the application of techniques that use single-cell sequencing have become increasingly common in several areas of research: including medicine, agriculture, and other life sciences disciplines. Single-cell sequencing may be used to study many aspects of an organism’s biology, both in health and disease, and the results of these studies contribute immensely to advancing the understanding of organisms as a whole. 
@@ -6,15 +8,13 @@ The establishment of collaborative scientific endeavors like the [Human Cell Atl
 
 [Workshop website](https://events.humancellatlas.org/2023LA)
 
-## Instructors
-- [Dr. Guillermo Parada](https://scholar.google.com/citations?hl=es&user=PTLeXysAAAAJ), University of Toronto (Canadá).
-- [MSc. Juan Pablo Silva](https://www.researchgate.net/profile/Juan-Silva-36), Universidad de Chile (Chile).
-- [Dr. Mónica Saldarriaga-Córdoba](https://scholar.google.com/citations?hl=es&user=nBBt_2UAAAAJ), Universidad Bernardo O’Higgins (Chile).
-- [Dr. Paulo P. Amaral](https://scholar.google.com/citations?hl=es&user=eKNlynIAAAAJ), INSPER (Brasil).
-- [Raúl Arias-Carrasco](https://scholar.google.com/citations?user=WRPcvtMAAAAJ&hl=en), Universidad Tecnológica Metropolitana - UTEM, Chile.
-- [Dr. Romain Guyot](https://scholar.google.com/citations?hl=es&user=1jAQU2wAAAAJ), IRD Montpellier (França).
-- [Dr. Vinicius Maracaja-Coutinho](https://scholar.google.com.br/citations?user=T_dpe84AAAAJ&hl), Advanced Center for Chronic Diseases (ACCDiS), Universidad de Chile, Chile.
-
+## Bioinformatics Team
+- **Adolfo Rojas**, Advanced Center for Chronic Diseases (ACCDiS), University of Chile, Chile
+- [Daniela Russo](https://www.linkedin.com/in/danieladrusso/), Broad Institute, US
+- [Orr Ashenberg](https://scholar.google.com/citations?user=vziWlEgAAAAJ&hl=en), Broad Institute, US
+- [Raúl Arias-Carrasco](https://scholar.google.com/citations?user=WRPcvtMAAAAJ&hl=en), Universidad Tecnológica Metropolitana, Chile
+- [Sergio Triana](https://scholar.google.com/citations?hl=en&user=WxyC26MAAAAJ), Broad Institute & MIT, US
+- [Vinicius Maracaja-Coutinho](https://scholar.google.com.br/citations?user=T_dpe84AAAAJ&hl), Advanced Center for Chronic Diseases (ACCDiS), University of Chile, Chile
 
 ## Hands-On Bioinformatics Training Material
 
@@ -62,10 +62,24 @@ We appreciate the continuous support and feedback from participants, mentors, an
 
 **List of Contributors - Listed Alphabetically:**
 
-- Allan Peñaloza-Otarola
+- Adolfo Rojas
+- Benilton S. Carvalho
+- Carlos Alberto Oliveira de Biagi Júnior
+- Cesar Prada
+- Cristóvão Antunes
+- Daniela Russo
+- Erick Armingol
+- Gabriela Guimarães
+- Leandro Santos
+- Mariana Boroni
+- Orr Ashenberg
+- Patricia Severino
 - Raúl Arias-Carrasco
+- Ricardo Khouri
+- Sergio Triana
 - Vinicius Maracaja-Coutinho
-- Wladimir Corrales
+- Yesid Cuesta
+
 
 ******
 ## License
