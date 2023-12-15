@@ -62,24 +62,10 @@ We appreciate the continuous support and feedback from participants, mentors, an
 
 **List of Contributors - Listed Alphabetically:**
 
-- Adolfo Rojas
-- Benilton S. Carvalho
-- Carlos Alberto Oliveira de Biagi Júnior
-- Cesar Prada
-- Cristóvão Antunes
-- Daniela Russo
-- Erick Armingol
-- Gabriela Guimarães
-- Leandro Santos
-- Mariana Boroni
-- Orr Ashenberg
-- Patricia Severino
+- Allan Peñaloza-Otarola
 - Raúl Arias-Carrasco
-- Ricardo Khouri
-- Sergio Triana
 - Vinicius Maracaja-Coutinho
-- Yesid Cuesta
-
+- Wladimir Corrales
 
 ******
 ## License
